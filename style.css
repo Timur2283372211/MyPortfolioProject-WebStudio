@@ -192,7 +192,6 @@ section:nth-child(3) h2 {
 .cards:last-child .card{
 	background: #ffffff;
 	height: 60%;
-	width: 18%;
 	display: flex;
 	justify-content: center;
 	align-items: center;
